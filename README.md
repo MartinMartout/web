@@ -13,6 +13,6 @@
 <a href="https://github.com/MartinMartout/web/blob/main/Untitled.ipynb"> 作業一 <a>
 
 
-<a href="https://github.com/MartinMartout/web/blob/main/Pokemon%20Data.ipynb"> 作業二 <a> <a href="https://github.com/MartinMartout/web/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-03-27%20222737.png"> 全圖 <a> <a> <a href="https://github.com/MartinMartout/web/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-03-27%20222713.png"> 放大圖 <a>
+<a href="https://github.com/MartinMartout/web/blob/main/Pokemon%20Data.ipynb"> 作業二 <a>   <a href="https://github.com/MartinMartout/web/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-03-27%20222737.png"> 全圖 <a>   <a href="https://github.com/MartinMartout/web/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-03-27%20222713.png"> 放大圖 <a>
 
 # 專題連結區
